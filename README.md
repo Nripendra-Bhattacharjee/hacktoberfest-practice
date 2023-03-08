@@ -76,6 +76,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 
 ```bash
   cd hacktoberfest-practice
+  git init  
 ```
 
 3. Create a new branch:
